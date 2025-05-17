@@ -1,0 +1,6 @@
+pillow
+pyserial
+pyttsx3
+SpeechRecognition
+bleak
+pyaudio ; sys_platform == 'win32'
