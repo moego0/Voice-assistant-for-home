@@ -5,4 +5,5 @@ Make sure you have downloaded the necessary libraries.
 _____________
 You can save the file named requirements.txt and install everything with:
 pip install -r requirements.txt
-
+_____________
+Feel free to add more components to the Arduino and add more functions to the Python script
